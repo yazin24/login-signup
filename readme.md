@@ -7,3 +7,5 @@ ____________________________________________
 
 Using bcypt to hash the passwords of users
 Using jsonwetoken to authenticate users credentials
+
+![photo of the simple login/signup form i made ](./ss/loginsignup.JPG)

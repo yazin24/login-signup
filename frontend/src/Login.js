@@ -44,7 +44,7 @@ const Login = () => {
     </div>
 			<div className="text-center mt-6">
 				<button type='submit' className="py-1 w-64 text-xl text-white font-bold bg-blue-400 rounded-2xl">Sign In</button>
-				<p className="mt-4 text-sm font-bold">Need to Sign Up? <span className="underline cursor-pointer font-bold text-blue-400"> Click here</span>
+				<p className="mt-4 text-sm font-bold">Need to Sign Up? <Link to='/signup' className="underline cursor-pointer font-bold text-blue-400"> Click here</Link>
 				</p>
 			</div>
 			</form>
