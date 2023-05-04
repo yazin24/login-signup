@@ -22,4 +22,4 @@ mongoose.connect(process.env.CONNECTION_STRING)
         console.error(err);
     })
 
-app.use('/users', userRouter)
+app.use('/users', userRouter);
