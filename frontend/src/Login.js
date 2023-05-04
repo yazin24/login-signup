@@ -33,7 +33,7 @@ const Login = () => {
 	</div>
 	<div className="absolute w-48 h-48 rounded-xl bg-blue-300 -bottom-6 -right-10 transform rotate-12 hidden md:block">
 	</div>
-	<div className="py-12 px-12 bg-white rounded-2xl shadow-xl z-20">
+	<div className="py-10 px-12 bg-white rounded-2xl shadow-xl z-20">
 		<div>
 			<h1 className="text-2xl font-bold text-center mb-4 cursor-pointer">Sign In!</h1>
 		</div>
